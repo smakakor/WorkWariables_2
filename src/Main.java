@@ -119,11 +119,5 @@ public class Main {
         System.out.println("Маша теперь получает " + denis + " рублей. Годовой доход вырос на " + (denisYears10 % denisYears) + " рублей");
         System.out.println("Маша теперь получает " + kris + " рублей. Годовой доход вырос на " + (krisYears10 % krisYears) + " рублей");
 
-
-
-
-
-
-
     }
 }
